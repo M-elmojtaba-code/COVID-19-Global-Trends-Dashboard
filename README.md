@@ -1,4 +1,5 @@
 ![COVID-19 Dashboard Overview](https://github.com/user-attachments/assets/f737f93c-7044-4198-adcf-810d5398f2f0)
+<p align="center"> <em>Interactive COVID-19 Dashboard Built with Power BI.</em> </p>
 
 # COVID-19 Global Trends Dashboard
 
@@ -6,7 +7,6 @@
 This project presents an interactive **Power BI dashboard** that analyzes the evolution of the COVID-19 pandemic across selected countries.  
 The dashboard focuses on **daily cases, daily deaths, and vaccination progress**, providing both high-level insights and detailed time-based analysis.
 
-The main goal of this project is to transform raw COVID-19 data into **clear, reliable, and actionable insights** using a clean data pipeline and effective visual design.
 
 ---
 
@@ -53,6 +53,36 @@ The data preparation process included two main stages:
 
 ---
 
+## How to use
+Open the Power BI file and use the country and date slicers to explore COVID-19 trends, comparisons, and vaccinated progress interactvely.
+
+---
+
+## Dashboard visuals
+
+### Daily COVID-19 Cases Trend
+This chart shows the daily evolution of confirmed COVID-19 cases, highlighting major pandemic waves across selected countries.
+
+![Cases Trend](Screenshots/new_cases.png)
+
+### Daily COVID-19 Deaths Trend
+This visualization illustrates daily COVID-19 deaths, which generally follow case trends with a noticeable time lag.
+
+![Deaths Trend](Screenshots/new_deaths.png)
+
+### Vaccination Progress Over Time
+This chart presents the cumulative number of fully vaccinated individuals, demonstrating the rollout and scale of vaccination programs.
+
+![Vaccination Trend](https://github.com/user-attachments/assets/7d3447fd-d1e6-4b86-a96b-aed8a8739b3f)
+)
+
+### Country Comparison
+This comparison highlights differences in COVID-19 case volumes across selected countries, enabling cross-country analysis.
+
+![Country Comparison](https://github.com/user-attachments/assets/b94cbd2f-9657-4e45-86e5-24e797c5fd44)
+
+---
+
 ## Key Insights
 
 - COVID-19 cases showed a clear and rapid increase at the beginning of the pandemic, with infection levels peaking across most selected countries in **early 2022**, reflecting the impact of major pandemic waves during that period.
@@ -93,10 +123,18 @@ The results emphasize the importance of temporal analysis, fair population-based
 ---
 
 ## Contact & Feedback
-**Author:** Mohammed Elmojtaba
-**E-Mail:** mohammed.elmojtaba@hotmail.com
-**Linkedin:** [https://linkedin.com/in/mohamedelmojtaba]
-**GitHub:** [https://github.com/M-elmojtaba-code]
+
+- **Author:** Mohammed Elmojtaba
+
+- **GitHub:** 
+https://github.com/M-elmojtaba-code
+
+- **E-Mail:** mohammed.elmojtaba@hotmail.com
+
+- **Linkedin:** 
+https://linkedin.com/in/mohamedelmojtaba
+
+
 
 I highly appreciate any **feedback, comments, or reviews** on this project.  
 I am continuously learning and always open to improving my skills through constructive feedback and collaboration.
